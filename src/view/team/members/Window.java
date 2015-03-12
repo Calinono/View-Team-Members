@@ -29,27 +29,27 @@ public class Window extends JFrame
         this.setVisible(true); //sets window visible
         
         //Button Team 1 Modifiers
-        t1.setForeground(Color.WHITE);
-        t1.setBackground(Color.RED);
+        t1.setForeground(Color.RED);
+        t1.setBackground(Color.WHITE);
         t1.setContentAreaFilled(false);
         t1.setOpaque(true);
         
         //Button Team 2 Modifiers
-        t2.setForeground(Color.WHITE);
-        t2.setBackground(Color.RED);
+        t2.setForeground(Color.RED);
+        t2.setBackground(Color.WHITE);
         //t2.setFont(buttonFont); DOESNT WORK
         t2.setContentAreaFilled(false);
         t2.setOpaque(true);
         
         //Button Team 3 Modifiers
-        t3.setForeground(Color.WHITE);
-        t3.setBackground(Color.RED);
+        t3.setForeground(Color.RED);
+        t3.setBackground(Color.WHITE);
         t3.setContentAreaFilled(false);
         t3.setOpaque(true);
         
         //Button Team 4 Modifiers
-        t4.setForeground(Color.WHITE);
-        t4.setBackground(Color.RED);
+        t4.setForeground(Color.RED);
+        t4.setBackground(Color.WHITE);
         t4.setContentAreaFilled(false);
         t4.setOpaque(true);
         
